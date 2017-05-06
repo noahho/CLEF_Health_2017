@@ -1,3 +1,5 @@
+SUBMISSION for trec eHealth Challenge 2017 Task2
+
 Please get the following files before running the algorithm
 	https://github.com/jhlau/doc2vec - Download english wikipedia dbow and unpack it into BachelorPython
 
@@ -17,4 +19,4 @@ Please do the following steps to run the algorithm
 
 
 
-Steps to train the algorithm
+In the file run on test data you can find the algorithms results on the topics 8643, 10632, 10771, 009323, 008691, 009944, 011548
