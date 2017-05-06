@@ -1,5 +1,3 @@
-SUBMISSION for trec eHealth Challenge 2017 Task2
-
 Please get the following files before running the algorithm
 	https://github.com/jhlau/doc2vec - Download english wikipedia dbow and unpack it into BachelorPython
 
@@ -17,6 +15,5 @@ Please do the following steps to run the algorithm
 10. The method used to predict the threshold can be one out of 4
 	the best method using relevance feedback is 2, without relevance feedback use 1 or 3
 
-
-
-In the file run on test data you can find the algorithms results on the topics 8643, 10632, 10771, 009323, 008691, 009944, 011548
+The submission for the test queries No 8643, 10632, 10771, 009323, 008691, 009944, 011548 are provided in data/trec_final_cutoff1 and data/trec_final_cutoff2.
+The one cutoff is using relevance feedback for some files the other cutoff isnt.
